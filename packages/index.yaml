@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  appnginx:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-02-01T02:39:59.211600827+05:30"
+    description: Nginx Helm Chart with web page
+    digest: 0951a020aff311b04edce8c3f2d8e4881ac001410438b74f9a114b8618e060b9
+    name: appnginx
+    urls:
+    - https://shehbab-kakkar.github.io/appnginx/packages/appnginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-01T02:39:59.211425597+05:30"
