@@ -1,4 +1,4 @@
-replicaCount: 1
+replicaCount: 2
 
 image:
   repository: nginx
@@ -13,7 +13,7 @@ service:
 web:
   indexHtml: |
     <html>
-      <head><title>My Test Page</title></head>
+      <head><title>My Test Second Page</title></head>
       <body>
         <h1>Hello from Helm + ArgoCD!</h1>
       </body>
